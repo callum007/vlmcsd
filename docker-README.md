@@ -3,7 +3,7 @@
 Deploy vlmcsd service on Docker container
 
 ```bash
-git clone https://github.com/Wind4/vlmcsd-docker.git vlmcsd
+git clone https://github.com/callum007/vlmcsd-docker.git vlmcsd
 cd vlmcsd
 
 # Use docker-compose service
